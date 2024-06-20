@@ -1,2 +1,2 @@
 # lePilulier
-projet acémique 
+projet académique
